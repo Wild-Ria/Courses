@@ -1,0 +1,21 @@
+input {
+    border: 1px solid #CCCCCC;
+    border-radius: 5px 5px 5px 5px;
+    display: block;
+    margin: 10px 0;
+    min-width: 180px;
+    padding: 5px 10px;
+}
+
+input[type=text] {
+
+}
+
+input[type=submit] {
+	width: 201px;
+}
+
+.buttons_wrapper {
+	width: 200px;
+	text-align: center;
+}
